@@ -2,7 +2,7 @@
 
 SMS spam/ham classifier built with TF-IDF + Multinomial Naive Bayes, deployed as a Streamlit web app.
 
-🔗 **Live demo:** https://YOUR-APP.streamlit.app
+🔗 **Live demo:** https://ai-message-guard-5am8t2d3vwpx8bfmiucr5w.streamlit.app
 
 ## Features
 - Paste any message and get a SPAM/HAM prediction with confidence scores
