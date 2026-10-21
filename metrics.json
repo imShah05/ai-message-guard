@@ -1,0 +1,26 @@
+{
+  "dataset": "UCI SMS Spam Collection",
+  "total_messages": 5158,
+  "train_messages": 4126,
+  "test_messages": 1032,
+  "accuracy": 0.9757751937984496,
+  "precision_spam": 1.0,
+  "recall_spam": 0.8046875,
+  "f1_spam": 0.8917748917748918,
+  "confusion_matrix_labels": [
+    "ham",
+    "spam"
+  ],
+  "confusion_matrix": [
+    [
+      904,
+      0
+    ],
+    [
+      25,
+      103
+    ]
+  ],
+  "random_state": 42,
+  "test_size": 0.2
+}
